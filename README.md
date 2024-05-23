@@ -1,5 +1,5 @@
 # Its me Nithin Raju
-🔭 I'm currently working on <strong>Travel Freaks</strong><br>👯 I’m looking to collaborate on <strong>Travel Freaks</strong><br>🤝 I’m looking for help with <strong>Travel Freaks</strong><br>🌱 I’m currently learning <strong>TypeScript & JavaScript</strong><br> 💬 Ask me about <strong>TypeScript & JavaScript</strong><br><br>
+🔭 I'm currently working on <strong>Travel Freaks</strong><br>👯 I’m looking to collaborate on <strong>Travel Freaks</strong><br>🤝 I’m looking for help with <strong>Travel Freaks</strong><br>🌱 I’m currently learning <strong>NextJs</strong><br> 💬 Ask me about <strong>TypeScript & JavaScript</strong><br><br>
 
 
 ## Connect with me:
