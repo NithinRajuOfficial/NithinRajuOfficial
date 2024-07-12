@@ -1,6 +1,6 @@
 # Its me Nithin Raju
 🔭 I'm currently working on <strong>Travel Freaks</strong><br>👯 I’m looking to collaborate on <strong>Travel Freaks</strong><br>🤝 I’m looking for help with <strong>Travel Freaks</strong><br>🌱 I’m currently learning <strong>NextJs</strong><br> 💬 Ask me about <strong>TypeScript & JavaScript</strong><br><br>
-
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&animation=twinkling
 
 ## Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://m.facebook.com/profile.php/?id=100002820435247) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.scorpionic/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithin-raju-b4a55a237/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22583007/nithin-raju) 
