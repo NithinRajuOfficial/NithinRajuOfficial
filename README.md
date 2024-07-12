@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Its+Me+Nithin+Raju)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Its+Me+NITHIN+RAJU)](https://git.io/typing-svg)
 🔭 I'm currently working on Dating App<br>👯 I’m looking to collaborate on Dating App<br>🤝 I’m looking for help with Dating App<br>🌱 I’m currently learning NextJs<br>💬 Ask me about TypeScript & JavaScript
 
 
