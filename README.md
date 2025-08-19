@@ -2,10 +2,10 @@
 
 👋 Hey there! I'm a passionate Software Engineer building and contributing to modern applications.
 
-🚀 Actively building new projects and solving challenging problems.
-🌱 Exploring new frameworks and expanding my knowledge of the web ecosystem.
-🤝 Looking to connect and collaborate with other developers.
-💡 Happy to talk about JavaScript, TypeScript, or anything related to coding!
+🚀 Actively building new projects and solving challenging problems.<br>
+🌱 Exploring new frameworks and expanding my knowledge of the web ecosystem.<br>
+🤝 Looking to connect and collaborate with other developers.<br>
+💡 Happy to talk about JavaScript, TypeScript, or anything related to coding!<br>
 
 
 ## 🌐 Socials:
