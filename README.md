@@ -1,5 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&random=false&width=435&lines=Its+Me+NITHIN+RAJU)](https://git.io/typing-svg)
-🔭 I'm currently working on Dating App<br>👯 I’m looking to collaborate on Dating App<br>🤝 I’m looking for help with Dating App<br>🌱 I’m currently learning NextJs<br>💬 Ask me about TypeScript & JavaScript
+
+👋 Hey there! I'm a passionate Software Engineer building and contributing to modern applications.
+
+🚀 Actively building new projects and solving challenging problems.
+🌱 Exploring new frameworks and expanding my knowledge of the web ecosystem.
+🤝 Looking to connect and collaborate with other developers.
+💡 Happy to talk about JavaScript, TypeScript, or anything related to coding!
 
 
 ## 🌐 Socials:
